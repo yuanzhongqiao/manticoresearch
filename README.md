@@ -1,214 +1,281 @@
-<p align="center">
-  <a href="https://manticoresearch.com" target="_blank" rel="noopener">
-    <img src="https://manticoresearch.com/logo.png" width="50%" alt="Manticore Search Logo">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+  <a href="https://manticoresearch.com" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/6eb146cd1d2380fa4234a6f26743ccac60ef58d1f1f25a3249868d40b299c72b/68747470733a2f2f6d616e7469636f72657365617263682e636f6d2f6c6f676f2e706e67" width="50%" alt="Manticore 搜索徽标" data-canonical-src="https://manticoresearch.com/logo.png" style="max-width: 100%;">
   </a>
 </p>
+<div class="markdown-heading" dir="auto"><h3 align="center" tabindex="-1" class="heading-element" dir="auto">
+  <a href="https://manticoresearch.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•
+  </font></font><a href="https://manticoresearch.com/install/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•
+  </font></font><a href="https://manual.manticoresearch.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•
+  </font></font><a href="https://manticoresearch.com/blog/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">博客</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•
+  </font></font><a href="https://play.manticoresearch.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">课程</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•
+  </font></font><a href="https://forum.manticoresearch.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">论坛</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•
+   </font></font><a href="https://slack.manticoresearch.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Slack</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> •
+   </font></font><a href="https://t.me/manticoresearch_en" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Telegram (英语)</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> •
+   </font></font><a href="https://t.me/manticore_chat" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Telegram (俄语)</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> •
+   </font></font><a href="https://twitter.com/manticoresearch" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Twitter</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> •
+  </font></font><a href="https://github.com/manticoresoftware/manticoresearch/discussions/categories/feedback"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户反馈</font></font></a>
+</h3><a id="user-content---website---downloads---docs---blog---courses---forum---slack---telegram-en---telegram-ru---twitter---user-feedback" class="anchor" aria-label="永久链接：网站 • 下载 • 文档 • 博客 • 课程 • 论坛 • Slack • Telegram (英语) • Telegram (俄语) • Twitter • 用户反馈" href="#--website---downloads---docs---blog---courses---forum---slack---telegram-en---telegram-ru---twitter---user-feedback"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto">&nbsp;</p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">介绍</font></font></h1><a id="user-content-introduction" class="anchor" aria-label="永久链接：简介" href="#introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="/manticoresoftware/manticoresearch/blob/master/LICENSE"><img src="https://camo.githubusercontent.com/faa6dea3ef1489f994a606c8764bf2e8a7035ccf974daaee1e84360f95f26080/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d47504c25323056332532422d677265656e3f7374796c653d706c6173746963" alt="许可证：GPLv3 或更高版本" data-canonical-src="https://img.shields.io/badge/license-GPL%20V3%2B-green?style=plastic" style="max-width: 100%;"></a>
+<a href="https://twitter.com/manticoresearch" rel="nofollow"><img src="https://camo.githubusercontent.com/72eeafb6aeab2a0a514f99fcc445eae18fd434857af1d0565fb17ffff5ce5927/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f6d616e7469636f72657365617263683f636f6c6f723d677265656e266c6f676f3d54776974746572267374796c653d706c6173746963" alt="Twitter 关注" data-canonical-src="https://img.shields.io/twitter/follow/manticoresearch?color=green&amp;logo=Twitter&amp;style=plastic" style="max-width: 100%;"></a>
+<a href="http://slack.manticoresearch.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/9953eeaf2616404c69c7ae5cd660a871d454883d0475fca19edcfebcc62a8476/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f736c61636b2d6d616e7469636f72657365617263682d677265656e2e7376673f6c6f676f3d736c61636b267374796c653d706c6173746963" alt="松弛" data-canonical-src="https://img.shields.io/badge/slack-manticoresearch-green.svg?logo=slack&amp;style=plastic" style="max-width: 100%;"></a>
+<a href="https://github.com/manticoresoftware/docker"><img src="https://camo.githubusercontent.com/6d801f4be665a555b3af1d179af92bfee017ef1cc584765fc989b321351b0d0d/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f70756c6c732f6d616e7469636f72657365617263682f6d616e7469636f72653f636f6c6f723d677265656e267374796c653d706c6173746963" alt="Docker 拉取" data-canonical-src="https://img.shields.io/docker/pulls/manticoresearch/manticore?color=green&amp;style=plastic" style="max-width: 100%;"></a>
+<a href="https://eepurl.com/dkUTHv" rel="nofollow"><img src="https://camo.githubusercontent.com/09c6fc4138de1c04c1bd0923e8cb60efa212fdb14eccc0e51b16162b6f76be8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6577736c65747465722d677265656e3f7374796c653d706c6173746963" alt="通讯" data-canonical-src="https://img.shields.io/badge/newsletter-green?style=plastic" style="max-width: 100%;"></a>
+<a href="https://github.com/manticoresoftware/manticoresearch/graphs/commit-activity"><img src="https://camo.githubusercontent.com/2f0fe236fd846aa76b8c72699585ed17e5d00fbf9cc5adb7a9911f76e7958df8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6d6d69742d61637469766974792f6d2f6d616e7469636f7265736f6674776172652f6d616e7469636f72657365617263683f636f6c6f723d677265656e267374796c653d706c6173746963" alt="活动" data-canonical-src="https://img.shields.io/github/commit-activity/m/manticoresoftware/manticoresearch?color=green&amp;style=plastic" style="max-width: 100%;"></a>
+<a href="https://github.com/manticoresoftware/manticoresearch/issues?q=is%3Aissue+is%3Aclosed"><img src="https://camo.githubusercontent.com/f4464324872c78cd3925e281d8587a44e1dac2c61e38246f1322df9ccbf9ebec/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d636c6f7365642f6d616e7469636f7265736f6674776172652f6d616e7469636f72657365617263683f636f6c6f723d677265656e267374796c653d706c6173746963" alt="GitHub 已关闭问题" data-canonical-src="https://img.shields.io/github/issues-closed/manticoresoftware/manticoresearch?color=green&amp;style=plastic" style="max-width: 100%;"></a></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"></font><a href="https://manticoresearch.com/blog/manticore-alternative-to-elasticsearch/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❗阅读有关 Manticore 与 Elasticsearch 的</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最新博客文章</font><font style="vertical-align: inherit;">❗</font></font></strong></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Manticore Search 是一款易于使用的开源快速搜索数据库。是 Elasticsearch 的良好替代品。它与其他解决方案的区别在于：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它非常快，因此比其他替代方案更具成本效益，例如 Manticore 具有以下优势：
+</font></font><ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于</font></font><a href="https://db-benchmarks.com/test-hn-small/#mysql-vs-manticore-search" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">小数据，速度比 MySQL</font></font></a><font style="vertical-align: inherit;"><strong><font style="vertical-align: inherit;">快 182 倍</font></strong><font style="vertical-align: inherit;">（</font></font><a href="https://github.com/db-benchmarks/db-benchmarks#get-started"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可重现</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❗）</font></font></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"></font><a href="https://db-benchmarks.com/test-logs10m/#elasticsearch-with-no-tuning-vs-manticore-search-default-row-wise-storage" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">日志分析速度</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">比 Elasticsearch</font><strong><font style="vertical-align: inherit;">快 29 倍</font></strong><font style="vertical-align: inherit;">（</font></font><a href="https://github.com/db-benchmarks/db-benchmarks#get-started"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可重现</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❗）</font></font></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"></font><a href="https://db-benchmarks.com/test-hn-small/#manticore-search-vs-elasticsearch" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于小数据集，</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">速度比 Elasticsearch</font><strong><font style="vertical-align: inherit;">快 15 倍</font></strong><font style="vertical-align: inherit;">（</font></font><a href="https://github.com/db-benchmarks/db-benchmarks#get-started"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可重现</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❗）</font></font></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"></font><a href="https://db-benchmarks.com/test-hn/#manticore-search-columnar-storage-vs-elasticsearch" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于中等大小数据，</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">速度比 Elasticsearch</font><strong><font style="vertical-align: inherit;">快 5 倍</font></strong><font style="vertical-align: inherit;">（</font></font><a href="https://github.com/db-benchmarks/db-benchmarks#get-started"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可重现</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❗）</font></font></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"></font><a href="https://db-benchmarks.com/test-taxi/#manticore-search-vs-elasticsearch" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于大数据，</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">速度比 Elasticsearch</font><strong><font style="vertical-align: inherit;">快 4 倍</font></strong><font style="vertical-align: inherit;">（</font></font><a href="https://github.com/db-benchmarks/db-benchmarks#get-started"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可重现</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❗）</font></font></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在单台服务器上的数据提取方面，最大吞吐量比 Elasticsearch</font><strong><font style="vertical-align: inherit;">快 2 倍（</font></strong></font><a href="https://manticoresearch.com/blog/manticore-alternative-to-elasticsearch/#data-ingestion-performance" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可重现</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❗）</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">凭借其现代多线程架构和高效的查询并行化功能，Manticore 能够充分利用所有 CPU 内核来实现最快的响应时间。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">强大而快速的全文搜索可以无缝地处理小型和大型数据集。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">适用于小型、中型和大型数据集的按行存储。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于更大的数据集，Manticore 通过</font></font><a href="https://github.com/manticoresoftware/columnar/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Manticore 列式库</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提供列式存储支持，能够处理太大而无法在 RAM 中容纳的数据集。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动创建高性能二级索引，节省您的时间和精力。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基于成本的查询优化器优化搜索查询以获得最佳性能。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Manticore 是 SQL-first 的，使用 SQL 作为其本机语法，并提供与 MySQL 协议的兼容性，允许您使用您喜欢的 MySQL 客户端。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">借助</font></font><a href="https://github.com/manticoresoftware/manticoresearch-php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PHP</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/manticoresoftware/manticoresearch-python"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Python</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/manticoresoftware/manticoresearch-javascript"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JavaScript</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/manticoresoftware/manticoresearch-typescript"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Typescript</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/manticoresoftware/manticoresearch-java"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Java</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/manticoresoftware/manticoresearch-elixir"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Elixir</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://github.com/manticoresoftware/manticoresearch-go"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Go</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">等客户端，与 Manticore Search 的集成变得容易。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Manticore 还提供了编程性 HTTP JSON 协议，以实现更加灵活的数据和模式管理。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Manticore Search 采用 C++ 构建，启动迅速且占用极少的 RAM，并且低级优化有助于实现出色的性能。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过实时插入，新添加的文档可以立即访问。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过交互式课程可以获得</font></font><a href="https://play.manticoresearch.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">交互式课程</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，使学习变得轻而易举。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Manticore 还拥有内置复制和负载平衡功能，以增加可靠性。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可以轻松地从 MySQL、PostgreSQL、ODBC、xml 和 csv 等来源同步数据。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">虽然不完全符合 ACID 标准，但 Manticore 仍然支持事务和 binlog 以确保安全写入。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用内置工具和 SQL 命令轻松进行数据备份和恢复</font></font></li>
+</ul>
+<p dir="auto"><a href="https://www.craigslist.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Craigslist</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://socialgist.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Socialgist</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://pubchem.ncbi.nlm.nih.gov/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PubChem</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://rozetka.com.ua/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rozetka</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和许多其他网站都使用 Manticore 进行高效搜索和流过滤。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Manticore Search 于 2017 年从</font></font><a href="https://github.com/sphinxsearch/sphinx"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sphinx 2.3.2</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分叉而来。</font></font></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更多功能</font></font></h1><a id="user-content-more-features" class="anchor" aria-label="永久链接：更多功能" href="#more-features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">全文搜索和相关性：
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">超过 20 个</font></font><a href="https://play.manticoresearch.com/fulltextintro/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">全文运算符</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和超过 20 个排名因素</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自定义排名</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">其他搜索功能：
+</font></font><ul dir="auto">
+<li><a href="https://manual.manticoresearch.com/Searching/Full_text_matching/Operators" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">丰富的过滤功能</font></font></a></li>
+<li><a href="https://play.manticoresearch.com/faceting/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分面搜索</font></font></a></li>
+<li><a href="https://play.manticoresearch.com/geosearch/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">地理空间搜索</font></font></a></li>
+<li><a href="https://manual.manticoresearch.com/Searching/KNN" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">向量搜索</font></font></a></li>
+<li><a href="https://manual.manticoresearch.com/Searching/Joining" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">连接表</font></font></a></li>
+<li><a href="https://play.manticoresearch.com/didyoumean/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">拼写纠正</font></font></a></li>
+<li><a href="https://play.manticoresearch.com/simpleautocomplete/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动完成</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多种过滤和数据处理功能</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自然语言处理 (NLP)：
+</font></font><ul dir="auto">
+<li><a href="https://manual.manticoresearch.com/Creating_a_table/NLP_and_tokenization/Morphology" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">词干提取</font></font></a></li>
+<li><a href="https://manual.manticoresearch.com/Creating_a_table/NLP_and_tokenization/Morphology" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">词形还原</font></font></a></li>
+<li><a href="https://manual.manticoresearch.com/Creating_a_table/NLP_and_tokenization/Ignoring_stop-words#stopwords" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">停用词</font></font></a></li>
+<li><a href="https://manual.manticoresearch.com/Creating_a_table/NLP_and_tokenization/Exceptions" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">同义词</font></font></a></li>
+<li><a href="https://manual.manticoresearch.com/Creating_a_table/NLP_and_tokenization/Wordforms#wordforms" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">词形</font></font></a></li>
+<li><a href="https://manual.manticoresearch.com/Creating_a_table/NLP_and_tokenization/Low-level_tokenization#charset_table" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">字符和单词级别的高级标记化</font></font></a></li>
+<li><a href="https://play.manticoresearch.com/icu-chinese/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">正确的中文切分</font></font></a></li>
+<li><a href="https://play.manticoresearch.com/highlighting/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文本突出显示</font></font></a></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><a href="https://play.manticoresearch.com/pq/" rel="nofollow"><font style="vertical-align: inherit;">使用“渗透”表进行</font></a><font style="vertical-align: inherit;">流过滤</font></font><a href="https://play.manticoresearch.com/pq/" rel="nofollow"><font style="vertical-align: inherit;"></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高可用性：
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据可以分布在服务器和数据中心之间</font></font></li>
+<li><a href="https://play.manticoresearch.com/replication/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">同步复制</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内置负载平衡</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全：
+</font></font><ul dir="auto">
+<li><a href="https://play.manticoresearch.com/https/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https 支持</font></font></a></li>
+<li><a href="https://manual.manticoresearch.com/Security/Read_only" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">只读模式</font></font></a></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据安全：
+</font></font><ul dir="auto">
+<li><a href="https://manual.manticoresearch.com/Securing_and_compacting_a_table/Backup_and_restore" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">manticore-backup 工具和 SQL 命令 BACKUP</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于备份和恢复数据</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据存储：
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">按行 - 需要更多 RAM，提供更快的性能</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">列式 - 需要较少的 RAM，仍然提供不错的性能，但对于某些类型的查询来说，其性能低于行式存储</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">docstore - 根本不需要 RAM，但只允许获取原始值，而不允许排序/分组/过滤</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">性能优化：
+</font></font><ul dir="auto">
+<li><a href="https://manual.manticoresearch.com/Server_settings/Searchd#secondary_indexes" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">二级索引</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基于成本的优化器确定搜索查询的最有效执行计划</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据类型：
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">全文字段-倒排索引</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">行列式 int、bigint 和 float 数字字段</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多值属性（数组）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">字符串和 JSON</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">磁盘上“</font></font><a href="https://play.manticoresearch.com/docstore/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">存储</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">”用于键值对</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">集成：
+</font></font><ul dir="auto">
+<li><a href="https://manual.manticoresearch.com/Creating_a_table/Local_tables/Plain_table#Plain-table" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从 MySQL 和 PostgreSQL 同步</font></font></a></li>
+<li><a href="https://manual.manticoresearch.com/Adding_data_from_external_storages/Fetching_from_XML_streams#XML-file-format" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从 XML 同步</font></font></a></li>
+<li><a href="https://manual.manticoresearch.com/Adding_data_from_external_storages/Fetching_from_CSV,TSV#Fetching-from-TSV,CSV" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从 CSV 同步</font></font></a></li>
+<li><a href="https://manual.manticoresearch.com/Extensions/SphinxSE#Using-SphinxSE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 MySQL 作为存储引擎</font></font></a></li>
+<li><a href="https://manual.manticoresearch.com/Extensions/FEDERATED" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过 FEDERATED 引擎使用 MySQL</font></font></a></li>
+<li><a href="https://manticoresearch.com/2018/06/18/using-proxysql-to-route-inserts-in-a-distributed-realtime-index/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代理SQL</font></font></a></li>
+<li><a href="https://manticoresearch.com/blog/manticoresearch-apache-superset-integration/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apache 超集</font></font></a></li>
+<li><a href="https://manticoresearch.com/blog/manticoresearch-grafana-integration/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">格拉法纳</font></font></a></li>
+<li><a href="https://manticoresearch.com/blog/integration-of-manticore-with-fluentbit/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fluentbit</font></font></a></li>
+<li><a href="https://manticoresearch.com/blog/integration-of-manticore-with-logstash-filebeat/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Logstash/Filebeat</font></font></a></li>
+<li><a href="https://manticoresearch.com/blog/integration-of-manticore-with-vectordev/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">矢量.dev</font></font></a></li>
+<li><a href="https://manual.manticoresearch.com/Securing_and_compacting_a_table/Backup_and_restore#Backup-and-restore-with-mysqldump" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">mysql转储</font></font></a></li>
+<li><a href="https://github.com/manticoresoftware/columnar"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">蝎尾狮柱状图书馆</font></font></a></li>
+</ul>
+</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></h1><a id="user-content-installation" class="anchor" aria-label="固定链接：安装" href="#installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker</font></font></h3><a id="user-content-docker" class="anchor" aria-label="永久链接：Docker" href="#docker"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker 镜像可在</font></font><a href="https://dockr.ly/33biV0U" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker Hub</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上获得。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要在 Docker 中尝试使用 Manticore Search，只需运行：</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>docker run -e EXTRA=1 --name manticore --rm -d manticoresearch/manticore &amp;&amp; until docker logs manticore 2&gt;&amp;1 | grep -q "accepting connections"; do sleep 1; done &amp;&amp; docker exec -it manticore mysql &amp;&amp; docker stop manticore
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="docker run -e EXTRA=1 --name manticore --rm -d manticoresearch/manticore &amp;&amp; until docker logs manticore 2>&amp;1 | grep -q &quot;accepting connections&quot;; do sleep 1; done &amp;&amp; docker exec -it manticore mysql &amp;&amp; docker stop manticore" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">然后，您可以：创建表、添加数据并运行搜索。例如：</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>create table movies(title text, year int) morphology='stem_en' html_strip='1' stopwords='en';
 
-<h3 align="center">
-  <a href="https://manticoresearch.com">Website</a> •
-  <a href="https://manticoresearch.com/install/">Downloads</a> •
-  <a href="https://manual.manticoresearch.com">Docs</a> •
-  <a href="https://manticoresearch.com/blog/">Blog</a> •
-  <a href="https://play.manticoresearch.com">Courses</a> •
-  <a href="https://forum.manticoresearch.com">Forum</a> •
-  <a href="https://slack.manticoresearch.com">Slack</a> •
-  <a href="https://t.me/manticoresearch_en">Telegram (En)</a> •
-  <a href="https://t.me/manticore_chat">Telegram (Ru)</a> •
-  <a href="https://twitter.com/manticoresearch">Twitter</a> •
-  <a href="https://github.com/manticoresoftware/manticoresearch/discussions/categories/feedback">User feedback</a>
-</h3>
-
-<p>&nbsp;</p>
-
-# Introduction
-
-[![License: GPLv3 or later](https://img.shields.io/badge/license-GPL%20V3%2B-green?style=plastic)](LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/manticoresearch?color=green&logo=Twitter&style=plastic)](https://twitter.com/manticoresearch)
-[![Slack](https://img.shields.io/badge/slack-manticoresearch-green.svg?logo=slack&style=plastic)](http://slack.manticoresearch.com/)
-[![Docker pulls](https://img.shields.io/docker/pulls/manticoresearch/manticore?color=green&style=plastic)](https://github.com/manticoresoftware/docker)
-[![Newsletter](https://img.shields.io/badge/newsletter-green?style=plastic)](https://eepurl.com/dkUTHv)
-[![Activity](https://img.shields.io/github/commit-activity/m/manticoresoftware/manticoresearch?color=green&style=plastic)](https://github.com/manticoresoftware/manticoresearch/graphs/commit-activity)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/manticoresoftware/manticoresearch?color=green&style=plastic)](https://github.com/manticoresoftware/manticoresearch/issues?q=is%3Aissue+is%3Aclosed)
-
-**❗Read recent [blog post about Manticore vs Elasticsearch](https://manticoresearch.com/blog/manticore-alternative-to-elasticsearch/)❗**
-
-Manticore Search is an easy to use open source fast database for search. Good alternative for Elasticsearch. What distinguishes it from other solutions is:
-* It's very fast and therefore more cost-efficient than alternatives, for example Manticore is:
-  - **182x faster** than MySQL for [small data](https://db-benchmarks.com/test-hn-small/#mysql-vs-manticore-search) ([reproducible](https://github.com/db-benchmarks/db-benchmarks#get-started)❗)
-  - **29x faster** than Elasticsearch for [log analytics](https://db-benchmarks.com/test-logs10m/#elasticsearch-with-no-tuning-vs-manticore-search-default-row-wise-storage) ([reproducible](https://github.com/db-benchmarks/db-benchmarks#get-started)❗)
-  - **15x faster** than Elasticsearch for [small dataset](https://db-benchmarks.com/test-hn-small/#manticore-search-vs-elasticsearch) ([reproducible](https://github.com/db-benchmarks/db-benchmarks#get-started)❗)
-  - **5x faster** than Elasticsearch for [medium-size data](https://db-benchmarks.com/test-hn/#manticore-search-columnar-storage-vs-elasticsearch) ([reproducible](https://github.com/db-benchmarks/db-benchmarks#get-started)❗)
-  - **4x faster** than Elasticsearch for [big data](https://db-benchmarks.com/test-taxi/#manticore-search-vs-elasticsearch) ([reproducible](https://github.com/db-benchmarks/db-benchmarks#get-started)❗)
-  - **up to 2x faster** max throughput than Elasticsearch's for data ingestion on a single server ([reproducible](https://manticoresearch.com/blog/manticore-alternative-to-elasticsearch/#data-ingestion-performance)❗)
-* With its modern multithreading architecture and efficient query parallelization capabilities, Manticore is able to fully utilize all your CPU cores to achieve the quickest response times possible.
-* The powerful and speedy full-text search works seamlessly with both small and large datasets.
-* Row-wise storage for small, medium and big size datasets.
-* For even larger datasets, Manticore offers columnar storage support through the [Manticore Columnar Library](https://github.com/manticoresoftware/columnar/), capable of handling datasets too big to fit in RAM.
-* Performant secondary indexes are automatically created, saving you time and effort.
-* The cost-based query optimizer optimizes search queries for optimal performance.
-* Manticore is SQL-first, utilizing SQL as its native syntax, and offers compatibility with the MySQL protocol, allowing you to use your preferred MySQL client.
-* With clients available in [PHP](https://github.com/manticoresoftware/manticoresearch-php), [Python](https://github.com/manticoresoftware/manticoresearch-python), [JavaScript](https://github.com/manticoresoftware/manticoresearch-javascript), [Typescript](https://github.com/manticoresoftware/manticoresearch-typescript), [Java](https://github.com/manticoresoftware/manticoresearch-java), [Elixir](https://github.com/manticoresoftware/manticoresearch-elixir), and [Go](https://github.com/manticoresoftware/manticoresearch-go), integration with Manticore Search becomes easy.
-* Manticore also provides a programmatic HTTP JSON protocol for more versatile data and schema management.
-* Built in C++, Manticore Search starts quickly and uses minimal RAM, with low-level optimizations contributing to its impressive performance.
-* With real-time inserts, newly added documents are immediately accessible.
-* Interactive courses are available through [Interactive courses](https://play.manticoresearch.com/) to make learning a breeze.
-* Manticore also boasts built-in replication and load balancing for added reliability.
-* Data can be synced from sources such as MySQL, PostgreSQL, ODBC, xml, and csv with ease.
-* While not fully ACID-compliant, Manticore still supports transactions and binlog to ensure safe writes.
-* Effortless data backup and recovery with built-in tools and SQL commands
-
-[Craigslist](https://www.craigslist.org/), [Socialgist](https://socialgist.com/), [PubChem](https://pubchem.ncbi.nlm.nih.gov/), [Rozetka](https://rozetka.com.ua/) and many others use Manticore for efficient searching and stream filtering.
-
-Manticore Search was forked from [Sphinx 2.3.2](https://github.com/sphinxsearch/sphinx) in 2017.
-
-# More features
-* Full-text search and relevance:
-  - Over 20 [full-text operators](https://play.manticoresearch.com/fulltextintro/) and over 20 ranking factors
-  - Custom ranking
-* Other search capabilities:
-  - [Rich filtering functionality](https://manual.manticoresearch.com/Searching/Full_text_matching/Operators)
-  - [Faceted search](https://play.manticoresearch.com/faceting/)
-  - [Geo-spatial search](https://play.manticoresearch.com/geosearch/)
-  - [Vector search](https://manual.manticoresearch.com/Searching/KNN)
-  - [Joining tables](https://manual.manticoresearch.com/Searching/Joining)
-  - [Spelling correction](https://play.manticoresearch.com/didyoumean/)
-  - [Autocomplete](https://play.manticoresearch.com/simpleautocomplete/)
-  - A wide range of functions for filtering and data manipulation
-* Natural language processing (NLP):
-  - [Stemming](https://manual.manticoresearch.com/Creating_a_table/NLP_and_tokenization/Morphology)
-  - [Lemmatization](https://manual.manticoresearch.com/Creating_a_table/NLP_and_tokenization/Morphology)
-  - [Stopwords](https://manual.manticoresearch.com/Creating_a_table/NLP_and_tokenization/Ignoring_stop-words#stopwords)
-  - [Synonyms](https://manual.manticoresearch.com/Creating_a_table/NLP_and_tokenization/Exceptions)
-  - [Wordforms](https://manual.manticoresearch.com/Creating_a_table/NLP_and_tokenization/Wordforms#wordforms)
-  - [Advanced tokenization at character and word level](https://manual.manticoresearch.com/Creating_a_table/NLP_and_tokenization/Low-level_tokenization#charset_table)
-  - [Proper Chinese segmentation](https://play.manticoresearch.com/icu-chinese/)
-  - [Text highlighting](https://play.manticoresearch.com/highlighting/)
-* Stream filtering [using a "percolate" table](https://play.manticoresearch.com/pq/)
-* High-availability:
-  - Data can be distributed across servers and data-centers
-  - [Synchronous replication](https://play.manticoresearch.com/replication/)
-  - Built-in load balancing
-* Security:
-  - [https support](https://play.manticoresearch.com/https/)
-  - [read-only mode](https://manual.manticoresearch.com/Security/Read_only)
-* Data safety:
-  - [manticore-backup tool and SQL command BACKUP](https://manual.manticoresearch.com/Securing_and_compacting_a_table/Backup_and_restore) to back up and restore your data
-* Data storages:
-  - row-wise - requires more RAM, provides faster performance
-  - columnar - requires less RAM, still provides decent performance, but lower than the row-wise storage for some kinds of queries
-  - docstore - doesn't require RAM at all, but allows only fetching original value, not sorting/grouping/filtering
-* Performance optimizations:
-  - [Secondary indexes](https://manual.manticoresearch.com/Server_settings/Searchd#secondary_indexes)
-  - Cost-based optimizer determines the most efficient execution plan of a search query
-* Data types:
-  - full-text field - inverted index
-  - int, bigint and float numeric fields in row-wise and columnar fashion
-  - multi-value attributes (array)
-  - string and JSON
-  - on-disk "[stored](https://play.manticoresearch.com/docstore/)" for key-value purpose
-* Integrations:
-  - [Sync from MySQL and PostgreSQL](https://manual.manticoresearch.com/Creating_a_table/Local_tables/Plain_table#Plain-table)
-  - [Sync from XML](https://manual.manticoresearch.com/Adding_data_from_external_storages/Fetching_from_XML_streams#XML-file-format)
-  - [Sync from CSV](https://manual.manticoresearch.com/Adding_data_from_external_storages/Fetching_from_CSV,TSV#Fetching-from-TSV,CSV)
-  - [With MySQL as a storage engine](https://manual.manticoresearch.com/Extensions/SphinxSE#Using-SphinxSE)
-  - [With MySQL via FEDERATED engine](https://manual.manticoresearch.com/Extensions/FEDERATED)
-  - [ProxySQL](https://manticoresearch.com/2018/06/18/using-proxysql-to-route-inserts-in-a-distributed-realtime-index/)
-  - [Apache Superset](https://manticoresearch.com/blog/manticoresearch-apache-superset-integration/)
-  - [Grafana](https://manticoresearch.com/blog/manticoresearch-grafana-integration/)
-  - [Fluentbit](https://manticoresearch.com/blog/integration-of-manticore-with-fluentbit/)
-  - [Logstash/Filebeat](https://manticoresearch.com/blog/integration-of-manticore-with-logstash-filebeat/)
-  - [Vector.dev](https://manticoresearch.com/blog/integration-of-manticore-with-vectordev/)
-  - [Mysqldump](https://manual.manticoresearch.com/Securing_and_compacting_a_table/Backup_and_restore#Backup-and-restore-with-mysqldump)
-  - [Manticore Columnar Library](https://github.com/manticoresoftware/columnar)
-
-# Installation
-
-### Docker
-Docker image is available on [Docker Hub](https://dockr.ly/33biV0U).
-
-To experiment with Manticore Search in Docker just run:
-
-```
-docker run -e EXTRA=1 --name manticore --rm -d manticoresearch/manticore && until docker logs manticore 2>&1 | grep -q "accepting connections"; do sleep 1; done && docker exec -it manticore mysql && docker stop manticore
-```
-
-You can then: create a table, add data and run searches. For example:
-
-```
-create table movies(title text, year int) morphology='stem_en' html_strip='1' stopwords='en';
-
-insert into movies(title, year) values ('The Seven Samurai', 1954), ('Bonnie and Clyde', 1954), ('Reservoir Dogs', 1992), ('Airplane!', 1980), ('Raging Bull', 1980), ('Groundhog Day', 1993), ('<a href="http://google.com/">Jurassic Park</a>', 1993), ('Ferris Bueller\'s Day Off', 1986);
+insert into movies(title, year) values ('The Seven Samurai', 1954), ('Bonnie and Clyde', 1954), ('Reservoir Dogs', 1992), ('Airplane!', 1980), ('Raging Bull', 1980), ('Groundhog Day', 1993), ('&lt;a href="http://google.com/"&gt;Jurassic Park&lt;/a&gt;', 1993), ('Ferris Bueller\'s Day Off', 1986);
 
 select highlight(), year from movies where match('the dog');
 
 select highlight(), year from movies where match('days') facet year;
 
 select * from movies where match('google');
-```
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="create table movies(title text, year int) morphology='stem_en' html_strip='1' stopwords='en';
 
-Note that upon exiting the MySQL client, the Manticore container will be stopped and removed, resulting in no saved data, so **use this way only for testing / sandboxing purposes**.
+insert into movies(title, year) values ('The Seven Samurai', 1954), ('Bonnie and Clyde', 1954), ('Reservoir Dogs', 1992), ('Airplane!', 1980), ('Raging Bull', 1980), ('Groundhog Day', 1993), ('<a href=&quot;http://google.com/&quot;>Jurassic Park</a>', 1993), ('Ferris Bueller\'s Day Off', 1986);
 
-Read [the full instruction for the docker image](https://github.com/manticoresoftware/docker) for more details including our recommendations on running it in production.
+select highlight(), year from movies where match('the dog');
 
-### Packages
+select highlight(), year from movies where match('days') facet year;
 
-## [Ubuntu, Debian, Centos, Windows and MacOS packages are here](https://manticoresearch.com/install/).
-
-### YUM repo for RHEL/Centos/Amazon/Oracle Linux
-```
-sudo yum install https://repo.manticoresearch.com/manticore-repo.noarch.rpm
+select * from movies where match('google');" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请注意，退出 MySQL 客户端时，Manticore 容器将被停止并删除，从而导致没有保存的数据，因此</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">仅将此方式用于测试/沙盒目的</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阅读</font></font><a href="https://github.com/manticoresoftware/docker"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">docker 镜像的完整说明</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以获取更多详细信息，包括我们对在生产中运行它的建议。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">套餐</font></font></h3><a id="user-content-packages" class="anchor" aria-label="固定链接：软件包" href="#packages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><a href="https://manticoresearch.com/install/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ubuntu、Debian、Centos、Windows 和 MacOS 软件包都在这里</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></h2><a id="user-content-ubuntu-debian-centos-windows-and-macos-packages-are-here" class="anchor" aria-label="永久链接：Ubuntu、Debian、Centos、Windows 和 MacOS 软件包在这里。" href="#ubuntu-debian-centos-windows-and-macos-packages-are-here"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RHEL/Centos/Amazon/Oracle Linux 的 YUM 仓库</font></font></h3><a id="user-content-yum-repo-for-rhelcentosamazonoracle-linux" class="anchor" aria-label="永久链接：RHEL/Centos/Amazon/Oracle Linux 的 YUM 仓库" href="#yum-repo-for-rhelcentosamazonoracle-linux"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>sudo yum install https://repo.manticoresearch.com/manticore-repo.noarch.rpm
 sudo yum install manticore manticore-extra
-```
-
-### APT repo for Ubuntu/Debian/Mint
-```
-wget https://repo.manticoresearch.com/manticore-repo.noarch.deb
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="sudo yum install https://repo.manticoresearch.com/manticore-repo.noarch.rpm
+sudo yum install manticore manticore-extra" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ubuntu/Debian/Mint 的 APT 仓库</font></font></h3><a id="user-content-apt-repo-for-ubuntudebianmint" class="anchor" aria-label="永久链接：Ubuntu/Debian/Mint 的 APT 仓库" href="#apt-repo-for-ubuntudebianmint"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>wget https://repo.manticoresearch.com/manticore-repo.noarch.deb
 sudo dpkg -i manticore-repo.noarch.deb
 sudo apt update
 sudo apt install manticore manticore-extra
-```
-
-### Homebrew on MacOS
-```
-brew install manticoresoftware/tap/manticoresearch manticoresoftware/tap/manticore-extra
-```
-
-### Windows
-See [instruction here](https://manual.manticoresearch.com/Installation/Windows).
-
-# Documentation and community sites
-
-  * [Documentation](https://manual.manticoresearch.com)
-  * [Interactive courses](https://play.manticoresearch.com)
-  * [Manticore Community Forum](https://forum.manticoresearch.com/)
-  * [Public Slack chat](http://slack.manticoresearch.com/)
-  * [Public Telegram chat (En)](https://t.me/manticoresearch_en)
-  * [Public Telegram chat (Ru)](https://t.me/manticore_chat)
-  * [Bug tracker](https://github.com/manticoresoftware/manticore/issues)
-
-# Third-party integrations
-  * https://dev.tiki.org/Manticore-Search - TikiWiki CMS Groupware integration
-  * https://github.com/EvilFreelancer/laravel-manticoresearch - Laravel ManticoreSearch plugin
-  * https://www.mediawiki.org/wiki/Extension:SphinxSearch - extension for MediaWiki
-  * https://github.com/gordonbanderson/silverstripe-manticore-search - integration for SilverStripe
-  * https://drwho.virtadpt.net/archive/2022-05-13/combining-manticore-and-searx/ - integration for SearX
-  * https://github.com/dimv36/sphinxlink - Extension for PostgreSQL for running search queries and returning data as PostgreSQL tables
-
-# How we can support you
-Should your company require any help - we provide full-cycle services in the areas of Sphinx and Manticore Search:
-  * Audit
-  * Support
-  * Consulting
-  * Development
-  * Training
-
-[More details here](https://manticoresearch.com/services/)
-
-# ❤️ How you can support Manticore Search
-Manticore Search is an Open Source project with development made possible by support from our core team, contributors, and sponsors. Building premium Open Source software is not easy. If you would like to make sure Manticore Search stays free, here is how you can help the project:
-
-* [Donation through PayPal](https://www.paypal.me/manticoresearch)
-* [Become our client and let us help you](https://manticoresearch.com/services)
-
-# License
-Manticore Search is distributed under [GPLv3 or later](./LICENSE). Manticore Search uses and re-distributes other open-source components. Please check the [component licenses](./component-licenses) directory for details.
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="wget https://repo.manticoresearch.com/manticore-repo.noarch.deb
+sudo dpkg -i manticore-repo.noarch.deb
+sudo apt update
+sudo apt install manticore manticore-extra" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MacOS 上的 Homebrew</font></font></h3><a id="user-content-homebrew-on-macos" class="anchor" aria-label="永久链接：MacOS 上的 Homebrew" href="#homebrew-on-macos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>brew install manticoresoftware/tap/manticoresearch manticoresoftware/tap/manticore-extra
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="brew install manticoresoftware/tap/manticoresearch manticoresoftware/tap/manticore-extra" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视窗</font></font></h3><a id="user-content-windows" class="anchor" aria-label="固定链接：Windows" href="#windows"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="https://manual.manticoresearch.com/Installation/Windows" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此处的说明</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档和社区网站</font></font></h1><a id="user-content-documentation-and-community-sites" class="anchor" aria-label="永久链接：文档和社区网站" href="#documentation-and-community-sites"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://manual.manticoresearch.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a></li>
+<li><a href="https://play.manticoresearch.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">互动课程</font></font></a></li>
+<li><a href="https://forum.manticoresearch.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Manticore 社区论坛</font></font></a></li>
+<li><a href="http://slack.manticoresearch.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">公共 Slack 聊天</font></font></a></li>
+<li><a href="https://t.me/manticoresearch_en" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">公共电报聊天（英语）</font></font></a></li>
+<li><a href="https://t.me/manticore_chat" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">公共电报聊天（俄语）</font></font></a></li>
+<li><a href="https://github.com/manticoresoftware/manticore/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">错误追踪器</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第三方集成</font></font></h1><a id="user-content-third-party-integrations" class="anchor" aria-label="永久链接：第三方集成" href="#third-party-integrations"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://dev.tiki.org/Manticore-Search" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://dev.tiki.org/Manticore-Search</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - TikiWiki CMS 群件集成</font></font></li>
+<li><a href="https://github.com/EvilFreelancer/laravel-manticoresearch"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/EvilFreelancer/laravel-manticoresearch-Laravel</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ManticoreSearch 插件</font></font></li>
+<li><a href="https://www.mediawiki.org/wiki/Extension:SphinxSearch" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.mediawiki.org/wiki/Extension:SphinxSearch——MediaWiki</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">扩展</font></font></li>
+<li><a href="https://github.com/gordonbanderson/silverstripe-manticore-search"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/gordonbanderson/silverstripe-manticore-search</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - SilverStripe 集成</font></font></li>
+<li><a href="https://drwho.virtadpt.net/archive/2022-05-13/combining-manticore-and-searx/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://drwho.virtadpt.net/archive/2022-05-13/combining-manticore-and-searx/</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - SearX 集成</font></font></li>
+<li><a href="https://github.com/dimv36/sphinxlink"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/dimv36/sphinxlink</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - PostgreSQL 扩展，用于运行搜索查询并以 PostgreSQL 表的形式返回数据</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们如何为您提供支持</font></font></h1><a id="user-content-how-we-can-support-you" class="anchor" aria-label="永久链接：我们如何为您提供支持" href="#how-we-can-support-you"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您的公司需要任何帮助 - 我们在 Sphinx 和 Manticore Search 领域提供全周期服务：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">审计</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">咨询</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发展</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">训练</font></font></li>
+</ul>
+<p dir="auto"><a href="https://manticoresearch.com/services/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更多详情请点击此处</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❤️ 如何支持 Manticore Search</font></font></h1><a id="user-content-️-how-you-can-support-manticore-search" class="anchor" aria-label="永久链接：❤️ 如何支持 Manticore Search" href="#️-how-you-can-support-manticore-search"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Manticore Search 是一个开源项目，其开发得益于我们的核心团队、贡献者和赞助商的支持。构建高级开源软件并不容易。如果您想确保 Manticore Search 保持免费，您可以通过以下方式帮助该项目：</font></font></p>
+<ul dir="auto">
+<li><a href="https://www.paypal.me/manticoresearch" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过 PayPal 捐款</font></font></a></li>
+<li><a href="https://manticoresearch.com/services" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">成为我们的客户，让我们帮助您</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h1><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="/manticoresoftware/manticoresearch/blob/master/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Manticore Search 在GPLv3 或更高版本</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下分发</font><font style="vertical-align: inherit;">。Manticore Search 使用并重新分发其他开源组件。请查看</font></font><a href="/manticoresoftware/manticoresearch/blob/master/component-licenses"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">组件许可证</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目录了解详细信息。</font></font></p>
+</article></div>
